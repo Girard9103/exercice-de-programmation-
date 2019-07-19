@@ -9,3 +9,14 @@
 /Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.AssemblyInfo.cs
 /Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.dll
 /Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.pdb
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/bin/Debug/netcoreapp2.0/app.deps.json
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/bin/Debug/netcoreapp2.0/app.runtimeconfig.json
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/bin/Debug/netcoreapp2.0/app.runtimeconfig.dev.json
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/bin/Debug/netcoreapp2.0/app.dll
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/bin/Debug/netcoreapp2.0/app.pdb
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.csprojAssemblyReference.cache
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.csproj.CoreCompileInputs.cache
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.AssemblyInfoInputs.cache
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.AssemblyInfo.cs
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.dll
+/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/Debug/netcoreapp2.0/app.pdb

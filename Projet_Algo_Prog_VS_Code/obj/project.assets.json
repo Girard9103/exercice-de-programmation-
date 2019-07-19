@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/app.csproj",
+      "projectUniqueName": "/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/app.csproj",
       "projectName": "app",
-      "projectPath": "/Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/app.csproj",
+      "projectPath": "/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/app.csproj",
       "packagesPath": "/Users/juliengirard/.nuget/packages/",
-      "outputPath": "/Users/juliengirard/Downloads/Projet_Algo_Prog_VS_Code/obj/",
+      "outputPath": "/Users/juliengirard/Documents/execise de programation /Projet_Algo_Prog_VS_Code/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
