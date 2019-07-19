@@ -1,11 +1,6 @@
 
-int nomUtilisateur;
+string nomUtilisateur;
 console.Write("Entrez  votre Nom : ");
 nomUtilisateur = Utilisateur.saisirTexte();
+console.Writeline("Bonjour" + nomUtilisateur + "!");
 
-if (nomUtilisateur = Utilisateur.saisirTexte());
-
-{
-    console.Write("Bonjour : " + Utilisateur.saisirTexte())
-    
-}
