@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Types'/>
+        <page name='Tee-shirt préféré'/>
+        <page name='Types et variables'/>
+        <page name='Sécurité des types'/>
+        <page name='Types et littéraux'/>
+        <page name='Inférence de type à partir de l’affectation'/>
+        <page name='Annotation de type'/>
+        <page name='D’où viennent les types ?'/>
+        <page name='Au-delà de la bibliothèque standard'/>
+        <page name='Importer des frameworks'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Cercles'/>
+    </pages>
+</playground>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' auto-termination-delay='21' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Vues en temps réel'/>
+        <page name='École de danse'/>
+        <page name='API'/>
+        <page name='Chorégraphie'/>
+        <page name='Signer votre travail'/>
+        <page name='Partager le Boogie'/>
+        <page name='Algorithmes'/>
+        <page name='Récapitulatif'/>
+        <page name='Atelier BoogieBot 1'/>
+        <page name='Atelier BoogieBot 2'/>
+        <page name='Atelier BoogieBot 3'/>
+        <page name='Atelier BoogieBot 4'/>
+    </pages>
+</playground>

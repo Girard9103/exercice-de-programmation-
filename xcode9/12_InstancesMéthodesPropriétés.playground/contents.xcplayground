@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Instances'/>
+        <page name='Créer une instance'/>
+        <page name='Méthodes'/>
+        <page name='Méthodes et sécurité des types'/>
+        <page name='Propriétés'/>
+        <page name='Propriétés vs méthodes'/>
+        <page name='API, suite'/>
+        <page name='Qu’est-ce que c’est ?'/>
+        <page name='Aide rapide'/>
+        <page name='Lire le manuel'/>
+        <page name='Classes et structures'/>
+        <page name='Pourquoi utiliser des méthodes et des propriétés ?'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Le retour de BoogieBot'/>
+        <page name='Exercice – Poulie pour cabane'/>
+        <page name='Exercice – Identité'/>
+    </pages>
+</playground>

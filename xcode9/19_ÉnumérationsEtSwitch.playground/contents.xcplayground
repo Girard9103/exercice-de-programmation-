@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Prendre des décisions, suite'/>
+        <page name='Énumérations'/>
+        <page name='Énumérations et inférence de type'/>
+        <page name='Quand utiliser les énumérations'/>
+        <page name='Comparer des énumérations'/>
+        <page name='Énumérations et fonctions'/>
+        <page name='Le problème d’if'/>
+        <page name='Instructions switch'/>
+        <page name='Passer en revue toutes les possibilités'/>
+        <page name='Le cas par défaut'/>
+        <page name='Cas multiples'/>
+        <page name='Au-delà des enum'/>
+        <page name='Retour à la cafétéria'/>
+        <page name='Méthodes et propriétés des énumérations'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Définir des enum'/>
+        <page name='Exercice – Compter les poussins'/>
+        <page name='Exercice – Remplacer des Bool'/>
+        <page name='Exercice – Comptabiliser les votes'/>
+        <page name='Exercice – Switch'/>
+    </pages>
+</playground>

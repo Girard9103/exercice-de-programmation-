@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Caractères'/>
+        <page name='Définir des chaînes'/>
+        <page name='Unicode'/>
+        <page name='Combiner des chaînes'/>
+        <page name='Chaînes avec espaces à compléter'/>
+        <page name='Interpolation de chaînes'/>
+        <page name='Afficher les résultats'/>
+        <page name='Utilisation avancée'/>
+        <page name='La grande évasion'/>
+        <page name='Séquences d’échappement'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Créer une liste'/>
+        <page name='Exercice – Au restaurant'/>
+        <page name='Exercice – On est les meilleurs !'/>
+        <page name='Exercice – Afficher des valeurs'/>
+    </pages>
+</playground>

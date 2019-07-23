@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Appeler une fonction'/>
+        <page name='Les répétitions'/>
+        <page name='Éviter les répétitions'/>
+        <page name='Décomposer les actions'/>
+        <page name='Des fonctions dans des fonctions'/>
+        <page name='Les boucles infinies'/>
+        <page name='Masquer la complexité'/>
+        <page name='Répercuter une modification'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice avec le mème'/>
+        <page name='Mème sur mesure'/>
+    </pages>
+</playground>

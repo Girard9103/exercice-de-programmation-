@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Modifier les couleurs d’Xcode'/>
+        <page name='Masquer la barre de résultat'/>
+        <page name='La console'/>
+        <page name='Bonjour'/>
+        <page name='Messages des programmeurs'/>
+        <page name='Comment afficher dans la console ?'/>
+        <page name='Récapitulatif'/>
+        <page name='Enregistrement'/>
+        <page name='Exercice – Débogage'/>
+        <page name='Exercice – L’app Console'/>
+    </pages>
+</playground>

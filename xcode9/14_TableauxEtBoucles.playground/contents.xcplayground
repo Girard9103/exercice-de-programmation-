@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Listes'/>
+        <page name='Littéraux de tableau'/>
+        <page name='Index'/>
+        <page name='La propriété count'/>
+        <page name='Types'/>
+        <page name='Parcourir les tableaux'/>
+        <page name='Boucles'/>
+        <page name='Tableaux mutables'/>
+        <page name='Ajouter des éléments'/>
+        <page name='Supprimer des éléments'/>
+        <page name='Remplacer des éléments'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – La propriété count'/>
+        <page name='Exercice – Animateur de karaoké'/>
+        <page name='Exercice – Comptabiliser les votes'/>
+        <page name='Exercice – Objectifs'/>
+        <page name='Exercice – Afficher des messages'/>
+    </pages>
+</playground>

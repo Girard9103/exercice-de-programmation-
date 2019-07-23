@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Vrai et faux'/>
+        <page name='Égalité'/>
+        <page name='Autres comparaisons'/>
+        <page name='Conditionnelles'/>
+        <page name='Else'/>
+        <page name='Else if'/>
+        <page name='Fonctions et décisions'/>
+        <page name='Opérateur de reste'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Mise en pratique des instructions if'/>
+        <page name='Exercice – Mise en pratique des instructions else'/>
+        <page name='Exercice – Année bissextile'/>
+    </pages>
+</playground>

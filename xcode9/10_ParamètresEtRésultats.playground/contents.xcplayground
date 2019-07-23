@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Des fonctions plus générales'/>
+        <page name='Votre nourriture préférée'/>
+        <page name='Attribuer plusieurs valeurs à la fois'/>
+        <page name='Vos autres préférences'/>
+        <page name='Récupérer des valeurs'/>
+        <page name='Retourner des valeurs'/>
+        <page name='Les genres de fonctions'/>
+        <page name='Éléments de structure'/>
+        <page name='Nommage'/>
+        <page name='Noms de paramètres et étiquettes d’arguments'/>
+        <page name='Un argument sans nom'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Verbe et nom'/>
+        <page name='Exercice – Utiliser des valeurs de retour'/>
+        <page name='Exercice – Étiquette d’argument'/>
+        <page name='Exercice – Sans étiquette d’argument'/>
+    </pages>
+</playground>

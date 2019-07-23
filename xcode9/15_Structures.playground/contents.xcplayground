@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Types personnalisés'/>
+        <page name='Propriétés des structures'/>
+        <page name='Mutabilité'/>
+        <page name='Propriétés calculées'/>
+        <page name='Fonctions '/>
+        <page name='Méthodes d’instance'/>
+        <page name='Récapitulatif'/>
+        <page name='Exercice – Vos structures personnalisées '/>
+    </pages>
+</playground>
