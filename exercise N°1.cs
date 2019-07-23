@@ -41,3 +41,10 @@ console.Writeline("La moyenne des note : " + (somme + /3));
     
 }
 
+let numeroPlayer = "Player 1 "
+
+func listePlayer(){
+    numeroPlayer
+}
+    
+listePlayer()
