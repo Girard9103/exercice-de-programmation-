@@ -35,14 +35,19 @@ greeting += "le monde"
 //: - experiment:
 //:(Expérience) :\
 //:Essayez de créer l’instruction « Compound assignment is useful » en utilisant l’affectation composée et les constantes suivantes. La première partie de l’instruction vous est fournie :
-let word1 = "Compound"
-let word2 = "assignment"
-let word3 = "is"
-let word4 = "useful"
+let word1 = " Compound"
+let word2 = " assignment"
+let word3 = " is"
+let word4 = " useful"
 let space = " "
 
-var statement = ""
+var statement = " "
 statement += word1
+statement += word2
+statement += word3
+statement += word4
+statement += space
+
 
 
 

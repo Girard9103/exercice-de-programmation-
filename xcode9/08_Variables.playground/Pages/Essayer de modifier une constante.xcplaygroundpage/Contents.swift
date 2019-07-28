@@ -5,7 +5,7 @@
  
  Comme vous le voyez ci-dessous, cette action est perçue comme étant une erreur. Le message d’erreur est le suivant : « Cannot assign to value: 'name' is a 'let' constant » (Impossible d’affecter la valeur : « name » est une constante « let »). À présent, vous connaissez la signification de `let` et de _constante_ et comprenez pourquoi cette erreur est survenue.
 */
-let name = "Johnny"
+var name = "Johnny"
 name = "John"
 /*:
  L’erreur indiquée dans la marge semble différente.

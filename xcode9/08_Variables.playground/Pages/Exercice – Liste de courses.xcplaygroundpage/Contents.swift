@@ -12,6 +12,11 @@ let newLine = "\n"
 //: - callout(Exercise):
 //:(Exercice) :\
 //:Créez une variable de chaîne dont la valeur initiale est `""`. Ajoutez les valeurs constantes à la liste une par une. Ajoutez une `newLine` entre chaque article. Souvenez-vous que vous pouvez lier deux chaînes en utilisant l’opérateur `+`.
+var debutListe = ""
+
+let jus = "coca"
+newLine
+let riz = "riz basmatique"
 
 
 

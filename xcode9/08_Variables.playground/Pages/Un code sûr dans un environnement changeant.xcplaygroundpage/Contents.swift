@@ -9,6 +9,9 @@ var friendBeverageChoice = "café"
 
 driveAcrossTown()
 buyACoffeeMaker()
+
+
+
 /*:Selon la durée pendant laquelle vous vous êtes absenté, vous ne pouvez pas savoir si votre ami aura ou non changé d’avis d’ici à ce que vous reveniez.*/
 friendBeverageChoice = "thé"
 

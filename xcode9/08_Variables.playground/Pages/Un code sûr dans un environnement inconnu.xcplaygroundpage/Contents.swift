@@ -6,9 +6,9 @@
  Observez ce programme permettant d’enregistrer et de calculer les scores pendant un jeu :
 */
 // Scores pour chaque cible
-var scoreForGreen = 5
-var scoreForRed = 10
-var scoreForGold = 20
+let scoreForGreen = 5
+let scoreForRed = 10
+let scoreForGold = 20
 
 // Scores des joueurs
 var scoreForGary = 0
@@ -20,7 +20,7 @@ scoreForGary += scoreForGreen
 scoreForGary += scoreForGold
 
 scoreForRob += scoreForRed
-scoreForRed += scoreForGreen
+scoreForRob += scoreForGreen
 scoreForRob += scoreForGold
 
 scoreForGary += scoreForRed
