@@ -9,8 +9,8 @@
 (Expérience) :\
 Supprimez les marques de commentaire des lignes de code suivantes et observez l’erreur qui apparaît. Vous devrez supprimer les marques de commentaire une par une, car l’aire de jeux s’arrête à la première erreur qu’elle repère.
 */
-//"banane" + 1
-//2 + "2"
+"banane" + String(1)
+String(2) + "2"
 /*:
  Voici le type d’erreurs que vous verrez :
  

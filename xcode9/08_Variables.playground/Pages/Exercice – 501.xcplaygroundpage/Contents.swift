@@ -22,8 +22,63 @@ Vous êtes fin stratège. Vous voulez faire croire aux autres que vous êtes mau
  \
  À la fin de chaque manche, utilisez `print` pour afficher des phrases que vos adversaires pourraient prononcer. Si possible, intégrez votre score actuel à ces phrases.
  */
+//Score de chaque cibles
+let scoreZoneRouge = 20
+let scoreZoneOrange = 15
+let scoreZoneJaune = 10
+let scoreZoneVert = 5
+let scoreZoneBleu = 1
+let joueurUn = "Garet :"
+let joueurDeux = "Julien :"
+//Score des joueur au debut
+
+var joueurGaret = 501
+var joueurJulien = 501
+
+//Deroulement de la partie en trois lancer en trois manches
+// Premier manche
+
+joueurGaret -= scoreZoneJaune
+joueurGaret -= scoreZoneOrange
+joueurGaret -= scoreZoneRouge
+
+joueurJulien -= scoreZoneBleu
+joueurJulien -= scoreZoneVert
+joueurJulien -= scoreZoneBleu
+
+print("\(joueurUn) Ou la la !! tu est pas en forme aujourd'hui dis donc Julien")
+print("\(joueurDeux) oui, c'est vrai ta raisson")
+
+// Deuxieme manche
+
+joueurGaret -= scoreZoneOrange
+joueurGaret -= scoreZoneJaune
+joueurGaret -= scoreZoneVert
+
+joueurJulien -= scoreZoneRouge
+joueurJulien -= scoreZoneOrange
+joueurJulien -= scoreZoneRouge
+
+print("\(joueurUn) Hey, bin tu te debrouille pas mal dis donc")
+print("\(joueurDeux) Merci, c'est de la chance.")
+
+// Troisiéme manche
 
 
+joueurGaret -= scoreZoneVert
+joueurGaret -= scoreZoneJaune
+joueurGaret -= scoreZoneVert
+
+joueurJulien -= scoreZoneOrange
+joueurJulien -= scoreZoneRouge
+joueurJulien -= scoreZoneRouge
+
+
+joueurGaret
+joueurJulien
+
+print("\(joueurUn) Tu a fait sa tout ta vie en direr non ?!")
+print("\(joueurDeux) Un petit peux c'est tout.")
 
 /*:
  

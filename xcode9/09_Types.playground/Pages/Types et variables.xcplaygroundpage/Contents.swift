@@ -8,7 +8,8 @@
  Supprimez les marques de commentaire de la ligne ci-dessous pour définir `favoriteThing` sur la valeur `42` :
 */
 var favoriteThing = "Moustaches de chat"
-//favoriteThing = 42
+favoriteThing = String("42")
+
 /*: 
  Vous allez voir le message d’erreur suivant : `Cannot assign value of type 'Int' to type 'String'` (Impossible d’affecter une valeur de type « Int » au type « String »). Retenez bien cette information : la _valeur_ d’une variable peut changer, mais pas son _type_.
  

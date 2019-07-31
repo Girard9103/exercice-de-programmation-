@@ -18,7 +18,6 @@ let wholeNumber = 2
 
 
 
-
 //: La sécurité des types dans Swift vous empêche de mélanger les types `Double` et `Int`.\
 //: Nous allons maintenant étudier une autre façon qu’a Swift de déterminer les types.\
 //: [Précédent](@previous)  |  page 6 sur 13  |  [Suivant : Inférence de type à partir de l’affectation](@next)
