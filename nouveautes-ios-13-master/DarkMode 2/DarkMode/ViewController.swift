@@ -18,3 +18,11 @@ class ViewController: UIViewController {
 
 }
 
+import fondation
+
+let scoreMaximal = 100 
+let scoreMinimal = 1 
+
+let ramdon = max(scoreMinimal, scoreMaximal) 
+
+
