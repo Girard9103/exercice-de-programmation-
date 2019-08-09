@@ -31,7 +31,9 @@ hello(name: "Vikram")
 //: - experiment:
 //:(Expérience) :\
 //:Appelez la fonction plusieurs fois en utilisant différents arguments. Comme vous pouvez le constater, la fenêtre de saisie automatique vous indique que la fonction possède un paramètre `String` appelé `name`.
-
+func utilisateur1(name: String){
+print("comment y les ?" + name)
+}
 
 
 
