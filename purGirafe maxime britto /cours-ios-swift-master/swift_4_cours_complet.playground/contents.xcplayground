@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Sommaire'/>
+        <page name='Chaines_caracteres'/>
+        <page name='Conditions'/>
+        <page name='Fil_execution'/>
+        <page name='Fonctions'/>
+        <page name='Variables'/>
+        <page name='Tableaux'/>
+        <page name='classes_objets'/>
+        <page name='Optionnels'/>
+        <page name='Closures'/>
+        <page name='Heritage'/>
+        <page name='Gestion_erreurs'/>
+        <page name='Extensions'/>
+        <page name='Structures'/>
+        <page name='Singleton'/>
+        <page name='Maths'/>
+        <page name='Lazy'/>
+        <page name='Intervalles'/>
+    </pages>
+</playground>

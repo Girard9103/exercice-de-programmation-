@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Sommaire'/>
+        <page name='Convert_units'/>
+        <page name='UserDefaults'/>
+        <page name='NSString'/>
+        <page name='NSRange'/>
+        <page name='NSLinguisticTagger'/>
+        <page name='Random_number'/>
+    </pages>
+</playground>
